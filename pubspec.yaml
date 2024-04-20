@@ -7,7 +7,7 @@ issue_tracker: https://github.com/mixpanel/mixpanel-flutter/issues
 documentation: https://developer.mixpanel.com/docs/flutter
 
 environment:
-  sdk: '>=2.12.0 <4.0.0'
+  sdk: ">=2.12.0 <4.0.0"
   flutter: ">=1.20.0"
 
 dependencies:
@@ -15,7 +15,7 @@ dependencies:
     sdk: flutter
   flutter_web_plugins:
     sdk: flutter
-  js: ^0.7.1
+  js: ^0.6.3
 
 dev_dependencies:
   flutter_test:
